@@ -1,0 +1,165 @@
+
+.background-main{
+    background-color: #F9B5D0;
+}
+
+
+.dancing-script{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+  }
+
+  .Who {
+    text-align: center;
+    display: block;
+    font-size: 30pt;
+    font-family: Dancing Script;
+    color: #EEEEEE;
+}
+.name{
+    color: #FF597B;
+    font-weight: 900;
+    font-size: 45pt;
+    font-family: Dancing Script;
+}
+.continue {
+    height: 60px;
+    width: 300px;
+    color: #EEEEEE;
+    border: none;
+    background-color: #FF597B;
+    font-family: Dancing Script;
+    font-size: 20pt;
+    display: block;
+    margin: 0 auto; 
+    
+}
+.continue {
+    height: 60px;
+    width: 300px;
+    color: #EEEEEE;
+    border: none;
+    background-color: #FF597B;
+    font-family: Dancing Script;
+    font-size: 20pt;
+    transition: transform 0.3s ease; 
+}
+
+.continue:hover {
+    transform: scale(1.1); 
+}
+a{
+    text-decoration: none;
+}
+.ask{
+    font-family: Dancing Script;
+    text-align: center;
+    display: block;
+    font-size: 30pt;
+    color: #EEEEEE;
+    font-weight: 900;
+}
+
+.mamasgif{
+    width: 400px;
+    display: block;
+    margin: 0 auto; 
+}
+.second-main{
+    background-color: #FF8E9E;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* Centers the buttons horizontally */
+    gap: 20px; /* Adds space between the buttons */
+    margin-top: 20px; /* Optional: Adds spacing from other elements */
+}
+
+.yn {
+    height: 60px;
+    width: 300px;
+    color: #EEEEEE;
+    border: none;
+    background-color: #FF597B;
+    font-family: Dancing Script;
+    font-size: 15pt;
+    transition: transform 0.3s ease;
+}
+
+.yn:hover {
+    transform: scale(1.1); 
+}
+
+.third-main{
+    background-color: #00FF9C;
+
+
+}
+
+.yestext{
+    color: white;
+    font-family:Dancing Script;
+    font-size: 50pt;
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+.gasoek-one-regular {
+    font-family: "Gasoek One", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  .kong{
+    width: 600px;
+  }
+  .boom{
+    width: 400px;
+  }
+  .img-container {
+    display: flex;
+    justify-content: center; /* Centers the buttons horizontally */
+    gap: 20px; /* Adds space between the buttons */
+    margin-top: 20px; /* Optional: Adds spacing from other elements */
+}
+
+.confirm{
+    height: 60px;
+    width: 300px;
+    color: #EEEEEE;
+    border-color: white;
+    background-color: red;
+    font-family: Dancing Script;
+    font-size: 15pt;
+    transition: transform 0.3s ease;
+    
+}
+
+.confirm:hover {
+    transform: scale(1.1); 
+}
+
+.confirmcontainer{
+    display: flex;
+    justify-content: center; /* Centers the buttons horizontally */
+    
+
+}
+
+.last-container{
+    display: flex;
+    justify-content: center; /* Centers the buttons horizontally */
+    
+}
+.iloveyoucontainer{
+    display: flex;
+    justify-content: center; /* Centers the buttons horizontally */
+}
+
+.iloveyou{
+    width: 400px
+}
